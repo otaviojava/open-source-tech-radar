@@ -19,12 +19,12 @@
 
     <div class="grid-flex v-align-middle">
       <div class="column">
-      <h2 class="m-0">Adopt</h2>
+      <h2 class="m-0">Strategic</h2>
       </div>
     </div>
     
     <div class="grid-flex grid-cards">
-        {{ range where .Pages "Params.ring" "Adopt" }}
+        {{ range where .Pages "Params.ring" "Strategic" }}
             <div class="column w-16">
             <a href="{{ .File.TranslationBaseName }}">{{ .Params.name }}</a>
             </div>
