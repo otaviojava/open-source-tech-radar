@@ -33,12 +33,12 @@
 
       <div class="grid-flex v-align-middle">
         <div class="column">
-        <h2 class="m-0">Can Use</h2>
+        <h2 class="m-0">Essential</h2>
         </div>
       </div>
   
       <div class="grid-flex grid-cards">
-        {{ range where .Pages "Params.ring" "Can Use" }}
+        {{ range where .Pages "Params.ring" "Essential" }}
             <div class="column w-16">
             <a href="{{ .File.TranslationBaseName }}">{{ .Params.name }}</a>
             </div>
@@ -47,12 +47,12 @@
   
       <div class="grid-flex v-align-middle">
         <div class="column">
-        <h2 class="m-0">Assess</h2>
+        <h2 class="m-0">Potencial</h2>
         </div>
       </div>
     
       <div class="grid-flex grid-cards">
-        {{ range where .Pages "Params.ring" "Assess" }}
+        {{ range where .Pages "Params.ring" "Potencial" }}
             <div class="column w-16">
             <a href="{{ .File.TranslationBaseName }}">{{ .Params.name }}</a>
             </div>

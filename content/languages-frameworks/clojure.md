@@ -2,7 +2,7 @@
 name= "Clojure"
 image= "/images/languages-frameworks/clojure.png"
 category= "Languages-Frameworks"
-ring= "Assess"
+ring= "Potencial"
 type="post"
 layout="details"
 +++

@@ -31,7 +31,7 @@ To add new content to the radar :
 name= [name of the concept]
 image= [relative image url]
 category= [Languages-Frameworks or Platforms or Techniques or Tools]
-ring= [Strategic or Can Use or Assess or Deprecated]
+ring= [Strategic or Essencial or Potencial or Deprecated]
 type="post"
 layout="details"
 +++
@@ -50,7 +50,7 @@ A file should look like this :
 name= "Angular"
 image= "/images/languages-frameworks/angular.png"
 category= "Languages-Frameworks"
-ring= "Can Use"
+ring= "Essential"
 type="post"
 layout="details"
 +++
