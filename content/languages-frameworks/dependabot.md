@@ -1,6 +1,6 @@
 +++
 name= "Dependabot"
-image= "/images/tools/github-action.png"
+image= "/images/tools/dependabot.png"
 category= "Tools"
 ring= "Strategic"
 type="post"
