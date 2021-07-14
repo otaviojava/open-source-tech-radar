@@ -1,5 +1,5 @@
 # Tech radar
-You can play with a version of the radar deployed on netlify [here](https://pedantic-bose-206591.netlify.app/)
+
 
 ## What ?
 
