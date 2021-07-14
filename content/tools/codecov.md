@@ -1,6 +1,6 @@
 +++
 name= "Codecov"
-image= "/images/tools/vs-code.png"
+image= "/images/tools/codecov.png"
 category= "Tools"
 ring= "Strategic"
 type="post"
@@ -19,9 +19,8 @@ Sed ullamcorper nibh eget massa dapibus hendrerit. Nulla facilisi. Aliquam erat 
 * [CharlesCD](https://charlescd.io/)
 
 # Resources
-- [homepage](https://about.codecov.io/)
-- [turpis fermentum]()
+* [homepage](https://about.codecov.io/)
+* [Documentation](https://docs.codecov.com/docs/about-code-coverage)
 
 # Resources (Portuguese)
-- [homepage](https://about.codecov.io/)
-- [turpis fermentum]()
+* []()
