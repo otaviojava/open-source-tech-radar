@@ -1,6 +1,6 @@
 +++
 name= "Helm"
-image= "/images/tools/github-app-dco.png"
+image= "/images/tools/helm.png"
 category= "Tools"
 ring= "Strategic"
 type="post"
