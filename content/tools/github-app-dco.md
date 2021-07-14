@@ -1,6 +1,6 @@
 +++
 name= "GitHub App DCO"
-image= "/images/tools/codecov.png"
+image= "/images/tools/github-app-dco.png"
 category= "Tools"
 ring= "Strategic"
 type="post"
