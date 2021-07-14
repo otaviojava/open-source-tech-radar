@@ -1,6 +1,6 @@
 +++
 name= "Node.js"
-image= "/images/languages-frameworks/nodejs.png"
+image= "/images/platforms/nodejs.png"
 category= "Languages-Frameworks"
 ring= "Deprecated"
 type="post"
