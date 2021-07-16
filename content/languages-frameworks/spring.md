@@ -9,19 +9,20 @@ layout="details"
 
 # What is it ?
 
-Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+The Spring Framework is an application framework and inversion of control container for the Java platform. The framework's core features can be used by any Java application, but there are extensions for building web applications on top of the Jakarta EE platform.
 
 
 # Why ?
 
-It is tested and proved that applications that are written on Go are highly performant and scalable. Golang is a very efficient language, just like C/C++, handling parallelisms like Java, and has easy code readability like Python and pearl. Golang has indisputable architectural advantages over its predecessors.
+Spring is the most popular application development framework for enterprise Java. Millions of developers around the world use Spring Framework to create high performing, easily testable, and reusable code. Spring framework is an open source Java platform.
+
 
 # For who ?
 * [CharlesCD](https://charlescd.io/)
 
 # Resources
 * [homepage](https://spring.io/)
-* [Learn](https://spring.io/learn)
+* [Training](https://spring.io/training)
 * [Source code](https://github.com/spring-projects/spring-framework)
 
 
