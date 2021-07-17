@@ -23,6 +23,6 @@ Originally built at Lyft, Envoy is a high performance C++ distributed proxy desi
 # Resources
 * [homepage](https://www.envoyproxy.io/)
 * [Documentation](https://www.envoyproxy.io/docs)
-
+* [Source code](https://github.com/envoyproxy/envoy)
 
 # Resources (Portuguese)
