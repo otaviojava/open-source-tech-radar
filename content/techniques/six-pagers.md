@@ -2,14 +2,14 @@
 name= "Amazon 6-pager"
 image= "/images/techniques/tdd.png"
 category= "Techniques"
-ring= "Potencial"
+ring= "Strategic"
 type="post"
 layout="details"
 +++
 
 # What is it ?
 
-In a letter to shareholders, founder and CEO Jeff Bezos reveals that company execs “don't do PowerPoint” or any other slide-oriented presentations. Instead, “Amazonians” create six-page narrative memos that are read at the beginning of each meeting—kind of like a “study hall” session, he says.
+The memo-style of presentation is designed—contra forms like PowerPoint—to make presenting new ideas difficult for the presenter but easier for their audience. ... At Amazon, the memo format allows every meeting where ideas are presented to turn into a deep debate of the idea's relative costs and merits.
 
 # Why ?
 
