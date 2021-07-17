@@ -8,26 +8,20 @@ layout="details"
 +++
 
 # What is it ?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra ultricies lectus vitae elementum. Suspendisse neque nisl, venenatis vel nunc cursus, pharetra finibus elit. In aliquam nisl eu sapien pulvinar, ac ultrices justo tincidunt. Maecenas sed ipsum libero. Nulla porttitor, magna ac efficitur vestibulum, urna neque porttitor velit, ac imperdiet elit mauris vel neque. Vivamus et scelerisque libero. Aenean imperdiet dignissim viverra. Phasellus aliquet diam et velit auctor mollis. In pulvinar dolor tristique mollis dignissim. Nullam et sem ac odio interdum vehicula sed vel est.
 
-Fusce vel malesuada neque, ut porttitor nulla. Etiam maximus consectetur bibendum. Aliquam vestibulum elementum elit eu lacinia. Sed at tristique enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla hendrerit sed magna et vehicula. Aenean rutrum placerat diam sit amet pharetra. Cras tristique aliquam augue sit amet volutpat. In finibus lobortis rutrum. Phasellus fringilla rutrum tortor, at convallis lacus maximus eu. Nam et hendrerit ligula.
+Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels.
 
 # Why ?
-Sed ullamcorper nibh eget massa dapibus hendrerit. Nulla facilisi. Aliquam erat volutpat. Ut eu ornare ipsum. Aenean molestie metus non orci faucibus pulvinar. Pellentesque maximus urna diam, vitae consectetur sapien sagittis id. Etiam enim erat, egestas id congue ut, dapibus ut lorem. Aenean scelerisque ligula id arcu rhoncus, id pharetra libero ultricies. Donec varius porta risus, a posuere libero fringilla a. Etiam id felis eu mauris euismod ullamcorper id ac massa. Aenean commodo pretium ex, et hendrerit ex pulvinar vel. Nam in nibh in eros maximus auctor. Maecenas lacus ipsum, porttitor vitae nisl ut, venenatis viverra ante. Mauris lacinia posuere sem in auctor. Quisque sed ultricies magna. Aliquam eu mauris commodo, ullamcorper turpis vestibulum, hendrerit augue.
+
+The Docker goal is to ease the creation, deploy and the delivery of an application using the so called Containers. ... But, instead of creating a full operating system, a Docker Container has just the minimum set of operating system software needed for the application to run and rely on the host Linux Kernel itself.
 
 # For who ?
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-* Nulla mattis metus a turpis fermentum, at fermentum mauris porttitor.
-* Morbi porttitor magna dictum condimentum faucibus.
-* Donec eget diam pharetra, hendrerit velit quis, sodales massa.
-* Sed dictum nunc eu ipsum consequat, ac rutrum lectus consequat.
-* Duis ut arcu mollis, pellentesque lacus eu, malesuada ante.
+* [CharlesCD](https://charlescd.io/)
 
 # Resources
-- [Lorem ipsum]()
-- [turpis fermentum]()
+* [homepage](https://www.docker.com/)
+* [Documentation](https://docs.docker.com/)
+* [Source code](https://github.com/docker)
 
-# Contacts
-- [Contactum 1]()
-- [Contactum 2]()
-- [Contactum 3]()
+
+# Resources (Portuguese)
