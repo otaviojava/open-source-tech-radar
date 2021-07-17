@@ -33,12 +33,11 @@
 
       <div class="grid-flex v-align-middle">
         <div class="column">
-        <h2 class="m-0">Essential</h2>
+        <h2 class="m-0">Essencial</h2>
         </div>
       </div>
-  
       <div class="grid-flex grid-cards">
-        {{ range where .Pages "Params.ring" "Essential" }}
+        {{ range where .Pages "Params.ring" "Essencial" }}
             <div class="column w-16">
             <a href="{{ .File.TranslationBaseName }}">{{ .Params.name }}</a>
             </div>
