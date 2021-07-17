@@ -1,7 +1,7 @@
 +++
 name= "Swagger"
 image= "/images/platforms/swagger.png"
-category= "Languages-Frameworks"
+category= "Platforms"
 ring= "Deprecated"
 type="post"
 layout="details"

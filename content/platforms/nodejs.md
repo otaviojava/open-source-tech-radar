@@ -1,7 +1,7 @@
 +++
 name= "Node.js"
 image= "/images/platforms/nodejs.png"
-category= "Languages-Frameworks"
+category= "Platforms"
 ring= "Deprecated"
 type="post"
 layout="details"
