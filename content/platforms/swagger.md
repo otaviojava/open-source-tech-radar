@@ -2,7 +2,7 @@
 name= "Swagger"
 image= "/images/platforms/swagger.png"
 category= "Platforms"
-ring= "Deprecated"
+ring= "Strategic"
 type="post"
 layout="details"
 +++

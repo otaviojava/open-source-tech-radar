@@ -2,7 +2,7 @@
 name= "PostgreSQL"
 image= "/images/platforms/postgresql.png"
 category= "Platforms"
-ring= "Deprecated"
+ring= "Strategic"
 type="post"
 layout="details"
 +++
