@@ -2,7 +2,7 @@
 name= "GraalVM"
 image= "/images/tools/graalvm.png"
 category= "Tools"
-ring= "Deprecated"
+ring= "Potencial"
 type="post"
 layout="details"
 +++

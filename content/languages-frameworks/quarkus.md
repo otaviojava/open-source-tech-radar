@@ -14,7 +14,7 @@ Quarkus is a Kubernetes Native Java framework tailored for OpenJDK HotSpot and G
 
 # Why ?
 
-Quarkus was designed to be easy to use right from the start, with features that work well with little to no configuration. Developers can choose the Java frameworks they want for their applications, which can be run in JVM mode or compiled and run in native mode.
+Quarkus was designed to be easy to use right from the start, with features that wok rwell with little to no configuration. Developers can choose the Java frameworks they want for their applications, which can be run in JVM mode or compiled and run in native mode.
 
 # For who ?
 * [CharlesCD](https://charlescd.io/)

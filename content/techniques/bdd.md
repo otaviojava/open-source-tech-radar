@@ -2,7 +2,7 @@
 name= "Behavior-driven development"
 image= "/images/techniques/tdd.png"
 category= "Techniques"
-ring= "Strategic"
+ring= "Essencial"
 type="post"
 layout="details"
 +++
