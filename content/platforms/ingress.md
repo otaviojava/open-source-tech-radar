@@ -1,6 +1,6 @@
 +++
 name= "Ingress"
-image= "/images/platforms/ingress.png"
+image= "/images/platforms/kubernetes.png"
 category= "Platforms"
 ring= "Strategic"
 type="post"
