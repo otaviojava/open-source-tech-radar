@@ -19,6 +19,7 @@ GitHub is a website for developers and programmers to collaboratively work on co
 
 * [CharlesCD](https://charlescd.io/)
 * [Horusec](https://horusec.io/site/)
+* [Beagle Framework](https://usebeagle.io/)
 
 # Resources
 
