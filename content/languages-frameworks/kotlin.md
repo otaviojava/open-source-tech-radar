@@ -19,6 +19,7 @@ The most strongly supported JVM language in the Android ecosystem—aside from J
 
 # For who ?
 * [CharlesCD](https://charlescd.io/)
+* [Beagle Framework](https://usebeagle.io/)
 
 # Resources
 * [homepage](https://kotlinlang.org/)
