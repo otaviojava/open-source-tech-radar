@@ -8,26 +8,20 @@ layout="details"
 +++
 
 # What is it ?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra ultricies lectus vitae elementum. Suspendisse neque nisl, venenatis vel nunc cursus, pharetra finibus elit. In aliquam nisl eu sapien pulvinar, ac ultrices justo tincidunt. Maecenas sed ipsum libero. Nulla porttitor, magna ac efficitur vestibulum, urna neque porttitor velit, ac imperdiet elit mauris vel neque. Vivamus et scelerisque libero. Aenean imperdiet dignissim viverra. Phasellus aliquet diam et velit auctor mollis. In pulvinar dolor tristique mollis dignissim. Nullam et sem ac odio interdum vehicula sed vel est.
 
-Fusce vel malesuada neque, ut porttitor nulla. Etiam maximus consectetur bibendum. Aliquam vestibulum elementum elit eu lacinia. Sed at tristique enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla hendrerit sed magna et vehicula. Aenean rutrum placerat diam sit amet pharetra. Cras tristique aliquam augue sit amet volutpat. In finibus lobortis rutrum. Phasellus fringilla rutrum tortor, at convallis lacus maximus eu. Nam et hendrerit ligula.
+Test-driven development (TDD) is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the software is improved to pass the new tests, only.
 
 # Why ?
-Sed ullamcorper nibh eget massa dapibus hendrerit. Nulla facilisi. Aliquam erat volutpat. Ut eu ornare ipsum. Aenean molestie metus non orci faucibus pulvinar. Pellentesque maximus urna diam, vitae consectetur sapien sagittis id. Etiam enim erat, egestas id congue ut, dapibus ut lorem. Aenean scelerisque ligula id arcu rhoncus, id pharetra libero ultricies. Donec varius porta risus, a posuere libero fringilla a. Etiam id felis eu mauris euismod ullamcorper id ac massa. Aenean commodo pretium ex, et hendrerit ex pulvinar vel. Nam in nibh in eros maximus auctor. Maecenas lacus ipsum, porttitor vitae nisl ut, venenatis viverra ante. Mauris lacinia posuere sem in auctor. Quisque sed ultricies magna. Aliquam eu mauris commodo, ullamcorper turpis vestibulum, hendrerit augue.
+
+TDD promotes a test-then-code approach. It’s based on the idea that if developers use test cases before writing functionality, they can create better software and, often, complete the project faster. This approach is different from normal software testing, where they generate the code first and only then test it.
+
+TDD developers use test cases before they write a single line of code. This approach encourages them to consider how the software will be used and what design it needs to have to provide the expected usability. Once a test fails, developers understand what needs to be changed and they refactor the code, that is, they rewrite it to improve it without altering its function.
 
 # For who ?
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-* Nulla mattis metus a turpis fermentum, at fermentum mauris porttitor.
-* Morbi porttitor magna dictum condimentum faucibus.
-* Donec eget diam pharetra, hendrerit velit quis, sodales massa.
-* Sed dictum nunc eu ipsum consequat, ac rutrum lectus consequat.
-* Duis ut arcu mollis, pellentesque lacus eu, malesuada ante.
+
 
 # Resources
-- [Lorem ipsum]()
-- [turpis fermentum]()
+- [Test Driven Development: By Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/)
 
-# Contacts
-- [Contactum 1]()
-- [Contactum 2]()
-- [Contactum 3]()
+# Resources(Portuguese)
+- [Test-Driven Development](https://www.casadocodigo.com.br/products/livro-tdd)
