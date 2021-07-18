@@ -18,6 +18,7 @@ GitHub is a website for developers and programmers to collaboratively work on co
 
 # For who ?
 * [CharlesCD](https://charlescd.io/)
+* [Horusec](https://horusec.io/site/)
 
 # Resources
 * [homepage](https://github.com/)

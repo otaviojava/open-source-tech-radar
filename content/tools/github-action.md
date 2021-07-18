@@ -16,6 +16,7 @@ GitHub Actions makes it easy to automate all your software workflows, now with w
 
 # For who ?
 * [CharlesCD](https://charlescd.io/)
+* [Horusec](https://horusec.io/site/)
 
 # Resources
 * [homepage](https://github.com/features/actions)

@@ -19,6 +19,7 @@ Kubernetes is an open-source system to automate the deployment, scaling, and man
 # For who ?
 
 * [CharlesCD](https://charlescd.io/)
+* [Horusec](https://horusec.io/site/)
 
 # Resources
 
