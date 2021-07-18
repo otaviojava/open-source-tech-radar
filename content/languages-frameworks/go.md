@@ -19,6 +19,7 @@ It is tested and proved that applications that are written on Go are highly perf
 # For who ?
 * [CharlesCD](https://charlescd.io/)
 * [Horusec](https://horusec.io/site/)
+* [Ritchie CLI](https://ritchiecli.io/)
 
 # Resources
 * [homepage](https://golang.org/)
