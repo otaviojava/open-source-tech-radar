@@ -18,6 +18,7 @@ RabbitMQ is therefore ideal for long-running tasks or blocking tasks, allowing w
 
 # For who ?
 * [CharlesCD](https://charlescd.io/)
+* [Horusec](https://horusec.io/site/)
 
 # Resources
 * [homepage](https://prometheus.io/)
