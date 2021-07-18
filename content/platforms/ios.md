@@ -1,6 +1,6 @@
 +++
 name= "iOS"
-image= "/images/platforms/github.png"
+image= "/images/platforms/ios.png"
 category= "Platforms"
 ring= "Strategic"
 type="post"
