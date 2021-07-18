@@ -17,11 +17,13 @@ Go is a statically typed, compiled programming language designed at Google by Ro
 It is tested and proved that applications that are written on Go are highly performant and scalable. Golang is a very efficient language, just like C/C++, handling parallelisms like Java, and has easy code readability like Python and pearl. Golang has indisputable architectural advantages over its predecessors.
 
 # For who ?
+
 * [CharlesCD](https://charlescd.io/)
 * [Horusec](https://horusec.io/site/)
 * [Ritchie CLI](https://ritchiecli.io/)
 
 # Resources
+
 * [homepage](https://golang.org/)
 * [Documentation](https://golang.org/doc/)
 * [Source code](https://github.com/google/go-github)
