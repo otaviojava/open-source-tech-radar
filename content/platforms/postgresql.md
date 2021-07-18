@@ -18,6 +18,7 @@ It is an advanced open-source object-relational system which applies SQL languag
 
 # For who ?
 * [CharlesCD](https://charlescd.io/)
+* [Horusec](https://horusec.io/site/)
 
 # Resources
 * [homepage](https://www.postgresql.org/)
