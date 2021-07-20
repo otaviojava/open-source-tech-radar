@@ -2,7 +2,7 @@
 name= "Swift"
 image= "/images/languages-frameworks/swift.png"
 category= "Languages-Frameworks"
-ring= "Potencial"
+ring= "Strategic"
 type="post"
 layout="details"
 +++
