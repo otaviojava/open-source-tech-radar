@@ -1,5 +1,5 @@
 +++
-name= "OKR"
+name= "Objectives and Key Results"
 image= "/images/techniques/okr.png"
 category= "Techniques"
 ring= "Potencial"
