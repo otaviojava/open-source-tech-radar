@@ -1,6 +1,6 @@
 +++
 name= "Objectives and Key Results"
-image= "/images/techniques/okr.png"
+image= "/images/techniques/okr.jpg"
 category= "Techniques"
 ring= "Potencial"
 type="post"
