@@ -20,5 +20,6 @@ The C4 model is a simple way to communicate software architecture at different l
 # Resources
 - [homepage](https://c4model.com/)
 - [The C4 Model for Software Architecture](https://www.infoq.com/articles/C4-architecture-model/)
+- [Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 
 # Resources(Portuguese)
