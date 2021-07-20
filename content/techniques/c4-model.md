@@ -17,6 +17,11 @@ The C4 model is a simple way to communicate software architecture at different l
 
 # For who ?
 
+* [CharlesCD](https://charlescd.io/)
+* [Horusec](https://horusec.io/site/)
+* [Ritchie CLI](https://ritchiecli.io/)
+* [Beagle Framework](https://usebeagle.io/)
+
 # Resources
 - [homepage](https://c4model.com/)
 - [The C4 Model for Software Architecture](https://www.infoq.com/articles/C4-architecture-model/)
