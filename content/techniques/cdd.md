@@ -16,6 +16,11 @@ layout="details"
 
 # For who ?
 
+* [CharlesCD](https://charlescd.io/)
+* [Horusec](https://horusec.io/site/)
+* [Ritchie CLI](https://ritchiecli.io/)
+* [Beagle Framework](https://usebeagle.io/)
+
 # Resources
 
 
