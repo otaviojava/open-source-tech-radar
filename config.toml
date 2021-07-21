@@ -1,4 +1,5 @@
-baseURL = "https://otaviojava.github.io/open-source-tech-radar/"
+baseURL = "https://otaviojava.github.io/open-source-tech-radar"
 languageCode = "en-us"
 title = "Tech radar"
 publishDir = "docs"
+relativeURLs = true
