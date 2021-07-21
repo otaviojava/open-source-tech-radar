@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/allure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/go/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/gorilla-mux/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/gorm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/groovy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/java/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/junit-4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/junit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/kotlin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/quarkus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/react/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/spock/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/spring/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/swift/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/typescript/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/libs/tdd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/android/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/bucket-s3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/docker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/elasticsearch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/envoy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/github/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/ingress/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/ios/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/istio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/keycloak/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/kubernetes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/mongodb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/nodejs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/postgresql/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/prometheus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/rabbitmq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/redis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/swagger/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/vcluster/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/techniques/bdd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/techniques/c4-model/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/techniques/cdd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/techniques/clean-architecture/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/techniques/ddd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/techniques/grpc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/techniques/microservices/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/techniques/okr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/techniques/server-driven-ui/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/techniques/six-pagers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/techniques/tdd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/casbin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/chai/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/codecov/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/dependabot/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/git/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/gitguardian/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/github-action/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/github-app-dco/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/graalvm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/helm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/hugo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/intellij/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/kubectl/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/maven/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/npm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/supertest/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/vscode/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/yarn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/csv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/languages-frameworks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/libs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/platforms/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/radar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/techniques/</loc>
+  </url>
+  
+  <url>
+    <loc>https://otaviojava.github.io/tools/</loc>
+  </url>
+  
+</urlset>
